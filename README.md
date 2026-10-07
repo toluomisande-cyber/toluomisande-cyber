@@ -12,22 +12,22 @@
 
 ---
 
-## 🧑🏽‍💻 About Me
+## 👨🏽‍💻 About Me
 
-```ts
+```js
 const david = {
   name: "David Omisande Toluwalase",
   role: "Automation Engineer & Web Developer",
   location: "Nigeria 🇳🇬",
 
-  specialties: [
+  focus: [
     "AI Automation",
     "Web Development",
-    "AI-Powered Applications",
-    "Vibe Coding",
+    "AI Applications",
     "Workflow Automation",
     "API Integrations",
-    "Digital Product Development"
+    "Vibe Coding",
+    "Digital Products"
   ],
 
   mindset: "Build. Automate. Ship. Improve."
